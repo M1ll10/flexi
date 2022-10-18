@@ -1,0 +1,17 @@
+#contenedor{
+    display: flex;
+    justify-content: center;
+}
+
+.tarjeta{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    padding:  10px;  
+    border: 1.5px solid black,
+      
+}
+.tarjeta img{
+    width: 100%;
+    margin: 15px;
+}
